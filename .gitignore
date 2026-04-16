@@ -1,0 +1,15 @@
+# Packaged skill builds
+*.skill
+
+# Python artifacts (in case anyone runs packaging scripts locally)
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
